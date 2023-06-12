@@ -1,0 +1,115 @@
+/* Estilos para o cabeçalho */
+.cabeçalho {
+    background-color: #623723;
+    color: white;
+    padding: 10px;
+  }
+  
+  .cabeçalho-logo {
+    margin: 10px;
+  }
+  
+  .cabeçalho-menu {
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+  }
+  
+  .cabeçalho-menu-elemento {
+    margin: 0 10px;
+    color: white;
+  }
+  
+  /* Estilos para a equipe */
+  .equipe {
+    background-color: #F4A460;
+    padding: 20px;
+  }
+  
+  .equipe-titulo {
+    color: #8B4513;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .membro-equipe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .membro-equipe img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .membro-equipe h4 {
+    color: #8B4513;
+    font-size: 18px;
+  }
+  
+  /* Outros estilos */
+  .corpo-principal {
+    background-color: #F4A460;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .corpo-principal-1 {
+    margin-bottom: 20px;
+  }
+  
+  .corpo-principal-2 {
+    color: #8B4513;
+    font-size: 32px;
+  }
+  
+  .corpo-principal-3 {
+    color: #8B4513;
+    font-size: 18px;
+  }
+  
+  .corpo-principal-botao {
+    background-color: #8B4513;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .corpo-principal-botao:hover {
+    background-color: #A0522D;
+  }
+  
+  .corpo-principal-imagem {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .corpo-secundario-titulo {
+    color: #8B4513;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .corpo-secundario-paragrafo {
+    margin-bottom: 10px;
+  }
+  
+  .rodape {
+    background-color: #F4A460;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .rodape-imagem {
+    width: 100px;
+    height: auto;
+  }
+  
